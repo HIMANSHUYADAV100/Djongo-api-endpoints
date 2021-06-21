@@ -79,13 +79,16 @@ After:
 
 
 Input (delete):
- 
+ ![image](https://user-images.githubusercontent.com/54714942/122696626-25a28280-d261-11eb-9911-b2d2c9f8441b.png)
+
 
 Output:
 Before:
- 
+ ![image](https://user-images.githubusercontent.com/54714942/122696634-29cea000-d261-11eb-9ebd-bf0aefa67777.png)
+
 After:
- 
+ ![image](https://user-images.githubusercontent.com/54714942/122696641-2cc99080-d261-11eb-869d-71aed94f42a2.png)
+
 
 
 
@@ -94,6 +97,8 @@ After:
 
 
 5.	Filter:  
+![image](https://user-images.githubusercontent.com/54714942/122696651-33580800-d261-11eb-8356-9f216f849368.png)
+
 This takes no input and traverses through all entries and creates classification and filtering and returns a dictionary with three entities:
 					Filtered by Type
 					Filtered by Size
